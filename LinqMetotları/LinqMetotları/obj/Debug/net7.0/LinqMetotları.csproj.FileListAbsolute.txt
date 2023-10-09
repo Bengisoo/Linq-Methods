@@ -1,0 +1,14 @@
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.AssemblyInfo.cs
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\bin\Debug\net7.0\LinqMetotları.exe
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\bin\Debug\net7.0\LinqMetotları.deps.json
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\bin\Debug\net7.0\LinqMetotları.runtimeconfig.json
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\bin\Debug\net7.0\LinqMetotları.dll
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\bin\Debug\net7.0\LinqMetotları.pdb
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.dll
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\refint\LinqMetotları.dll
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.pdb
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\LinqMetotları.genruntimeconfig.cache
+C:\Users\zehra\source\repos\LinqMetotları\LinqMetotları\obj\Debug\net7.0\ref\LinqMetotları.dll
